@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @minsiam
-- 👀 I’m interested in Coding!
-- 🌱 I’m currently working on my Discord bot!
-- 📫 How to reach me
-- Discord - minsiam#1793
-- Email - minsiamyoongi@gmail.com
-- That was it thanks for reading :D
+- Hi i'm minsiam
+- I love coding
+- I code in javascript
+- I'm currently working on my Discord Bot
+- Maybe aiming to become a software engineer
+- Contact Me:
+- Discord: minsiam#1793
+- Email: minsiamyoongi@gmail.com
