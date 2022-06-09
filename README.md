@@ -1,8 +1,6 @@
 - Hi i'm minsiam
-- I love coding
-- I code in javascript
-- I'm currently working on my Discord Bot
-- Maybe aiming to become a software engineer
+- I love coding and crypto
 - Contact Me:
 - Discord: minsiam#1793
 - Email: minsiamyoongi@gmail.com
+- YouTube: https://www.youtube.com/channel/UCj9fvMsrj-Y8kX4kfGxPymw
